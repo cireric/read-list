@@ -99,6 +99,7 @@
 
 
 ## 杂类
+- 黑客与画家(Hackers and Painters: Big Ideas from the Computer Age), by [美] 保罗·格雷厄姆, 2020-06
 - 今日简史, by [以色列] 尤瓦尔·赫拉利, 2020-04
 - 未来简史, by [以色列] 尤瓦尔·赫拉利, 2019-10 
 - 人类简史, by [以色列] 尤瓦尔·赫拉利, 2019-06
@@ -109,7 +110,6 @@
 - :+1: 你的灯亮着吗?{Are Your Lights On?: How to Figure Out What the Problem Really Is}, by [美] 唐纳德·高斯, 2008-09
 
 ```
-- 黑客与画家(Hackers and Painters: Big Ideas from the Computer Age), by [美] 保罗·格雷厄姆, 2020-04
 - 黑天鹅：如何应对不可知的未来, by  [美] 纳西姆·尼古拉斯·塔勒布
 - 灰犀牛：如何应对大概率危机, by 米歇尔·渥克
 
